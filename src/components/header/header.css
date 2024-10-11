@@ -1,0 +1,21 @@
+.logoOffCanvas {
+  width: 50% !important;
+}
+
+.btnHeader {
+  background-color: #2d3a64;
+}
+
+.btnHeader i {
+  color: #d1d5de;
+}
+
+@media (max-width: 768px) {
+  #containerHeaderOffcanvas {
+    justify-content: center !important;
+  }
+
+  #logoHeader {
+    width: 25% !important;
+  }
+}

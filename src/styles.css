@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  user-select: none;
+}
+
+.fill-eclipse {
+  fill: #2d3a64;
+}
+
+.color-eclipse {
+  color: #2d3a64;
+}
+
+.color-moon {
+  color: #d1d5de;
+}
+
+.bg-eclipse {
+  background-color: #2d3a64;
+}
